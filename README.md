@@ -16,3 +16,4 @@ dict = {0:'zero',1:'first',2:'two',3:'three',4:'four',5:'five',6:'six',7:'seven'
 print(dict[n])
 else:
 print("special character")
+![Screenshot_20241227-003806_Moto App Launcher](https://github.com/user-attachments/assets/e2f0bfe1-96e3-4894-8e4d-1c8a8addada5)
